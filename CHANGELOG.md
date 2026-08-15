@@ -2,6 +2,30 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [1.5.0](https://github.com/sabertaz/notes/compare/v1.4.0...v1.5.0) (2026-08-15)
+
+### :sparkles: Features
+
+* **linux-desktop:** add steam and cloudmusic app launch keybindings ([b0309ed](https://github.com/sabertaz/notes/commit/b0309ed9d9cbb8af236424c6278afad62ffb3ca1))
+* **linux-desktop:** glazewm fullscreen toggle keybindings ([c21e426](https://github.com/sabertaz/notes/commit/c21e426125ce04bc35eb6ae4b3bf576ccc0b6a3d))
+* **linux-desktop:** glazewm gaps and yasb bar padding ([5f4ab7b](https://github.com/sabertaz/notes/commit/5f4ab7b81741c23977c802147fb4ba3b9e4e75ca))
+* **linux-desktop:** glazewm yasb config ([55e07ab](https://github.com/sabertaz/notes/commit/55e07abb23d7cc4f8d74ed1b2927a369c9df78b4))
+* **linux-desktop:** set up `yasb` bar ([38c52eb](https://github.com/sabertaz/notes/commit/38c52eb9f2f9d9aeb25aa33d58c6816bf5f79c25))
+* **linux-desktop:** yasb clock and glazewm workspaces widgets ([443342f](https://github.com/sabertaz/notes/commit/443342fe5b5e35e97482c3c2ee9b88b902a23300))
+* **linux-terminal:** zellij terminal multiplexer config ([a0c332d](https://github.com/sabertaz/notes/commit/a0c332df4dc5773a86231067114adf73b1736fda))
+* **linux-toolchain:** migrate from oh-my-bash to bash-it ([daa57d0](https://github.com/sabertaz/notes/commit/daa57d068fe35a4b3c4043819c30f336d815c17a))
+* **linux-toolchain:** scoop toolchain and winget desktop packages ([a1b0e41](https://github.com/sabertaz/notes/commit/a1b0e41f9c6940cee5e345da800404dd9b252511))
+* **linux-toolchain:** windows recommended software ([bd52d9f](https://github.com/sabertaz/notes/commit/bd52d9f24bc880281bc0b058604edb2d5ae394c1))
+
+### :sparkles: Today I Learned
+
+* **deps:** update dependencies (non-major) ([#753](https://github.com/sabertaz/notes/issues/753)) ([60f6397](https://github.com/sabertaz/notes/commit/60f6397cee4f273ec4591ea20da29bc075d28556))
+* **git-config:** core.autocrlf input ([09a0a17](https://github.com/sabertaz/notes/commit/09a0a171cc549107ff9946a055a808fdabda6da5))
+* **lint:** stylelint glob pattern quoting ([7ac0f79](https://github.com/sabertaz/notes/commit/7ac0f79878cb0d23ff3cfab7a98f97b23d73a34b))
+* **linux-desktop:** yasb cava widget sleep timer ([9e8fc3c](https://github.com/sabertaz/notes/commit/9e8fc3c68bfe1d1c8038f7f7445129d0be8526e0))
+* **linux-desktop:** yasb native autostart ([60692b1](https://github.com/sabertaz/notes/commit/60692b1b8815040ec52195873101f2a2449a8325))
+* **linux-terminal:** disable visual bell for git-bash ([ae1b526](https://github.com/sabertaz/notes/commit/ae1b5264e1b9d32daec28b4bcf8c5c097b29f34a))
+* **linux-terminal:** zellij show_startup_tips false ([a805392](https://github.com/sabertaz/notes/commit/a8053920608bcb78789717f2fb26b486b8b6dd94))
 ## [1.4.0](https://github.com/sabertazimi/notes/compare/v1.3.0...v1.4.0) (2026-07-15)
 
 
