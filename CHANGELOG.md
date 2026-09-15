@@ -2,6 +2,7 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [1.5.1](https://github.com/sabertaz/notes/compare/v1.5.0...v1.5.1) (2026-09-15)
 ## [1.5.0](https://github.com/sabertaz/notes/compare/v1.4.0...v1.5.0) (2026-08-15)
 
 ### :sparkles: Features
